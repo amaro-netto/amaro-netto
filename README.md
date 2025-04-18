@@ -31,12 +31,9 @@ FERRAMENTAS:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=firefox&logoColor=white)](https://seuportfolio.com)
 
-##
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-
 <div>
 <a href="https://github.com/amaro-netto">
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaro-netto&theme=dark&hide_border=false"/>
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaro-netto&theme=dark&hide_border=false"/>
+<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
