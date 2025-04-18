@@ -36,7 +36,7 @@ FERRAMENTAS:
 
 <div>
 <a href="https://github.com/amaro-netto">
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaro-netto&theme=dark&hide_border=false"/>
-<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaro-netto&theme=dark&hide_border=false"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
