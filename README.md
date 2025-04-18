@@ -14,7 +14,8 @@ TECNOLOGIAS:
 
 APRENDENDO:
 
-<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" style="max-width: 100%;"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" style="max-width: 100%;">
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" style="max-width: 100%;"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" style="max-width: 100%;"> <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL" style="max-width: 100%;">
+
 
 FERRAMENTAS:
 
