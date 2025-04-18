@@ -23,14 +23,6 @@ FERRAMENTAS:
 - [🖥️ MeuSite](https://github.com/usuario/meusite) - Landing page com foco em performance e acessibilidade
 
 
-
-## 📫 Onde me encontrar:
-
-
-[![LinkedIn]()](https://linkedin.com/in/amarosilvanetto)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=firefox&logoColor=white)](https://seuportfolio.com)
-
 <div>
 <a href="https://github.com/amaro-netto">
 <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=compact&langs_count=7&theme=dark"/>
