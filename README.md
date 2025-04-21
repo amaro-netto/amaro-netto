@@ -1,5 +1,3 @@
-<h1 align="center"> # 🚧 EM CONSTRUÇÃO 🚧 </h1> 
-
 ### Bem vindo ao meu perfil GitHub 👋
 
 ### Sobre Mim:
