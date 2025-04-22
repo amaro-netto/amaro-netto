@@ -4,8 +4,11 @@
 Morador de Itaguaí, RJ
 
 Profissional de TI com mais de 10 anos de experiência, iniciando como Suporte Técnico e evoluindo para a gestão de redes e infraestrutura, fiscalização de contratos e liderança de equipes de serviços de redes.
+
 Especialista em otimização de processos de TIC, com forte atuação na criação, validação e melhoria de documentação técnica para garantir padronização e eficiência operacional.
+
 Experiência na implantação de soluções tecnológicas, monitoramento de infraestrutura, segurança da informação, banco de dados, virtualização e aplicações web.
+
 Atualmente aprimorando habilidades em programação para desenvolvimento de aplicações e automação de processos, buscando otimizar operações e impulsionar a transformação digital.
 
 ##
