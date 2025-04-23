@@ -25,7 +25,7 @@ Atualmente aprimorando habilidades em programação para desenvolvimento de apli
 ### PROJETOS EM DESTAQUE:
 
 - [📱 MeuApp](https://github.com/usuario/meuapp) - App mobile feito em 
-- [🖥️ MeuSite](https://github.com/usuario/meusite) - Landing page com foco em performance e acessibilidade
+- [🖥️ MeuSite](https://github.com/amaro-netto/dark-mode-portfolio) - Landing page com foco em performance e acessibilidade
 
 ##
 ### ESTATISTICAS:
