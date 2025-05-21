@@ -13,13 +13,26 @@ Atualmente aprimorando habilidades em programação para desenvolvimento de apli
 
 ##
 
-### Técnologias que Uso:
+### Minhas Tecnologias
+Aqui estão algumas das tecnologias com as quais trabalho:
 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML5" style="max-width: 100%;"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS3" style="max-width: 100%;"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" style="max-width: 100%;"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" style="max-width: 100%;"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" style="max-width: 100%;"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" title="vscode" style="max-width: 100%;"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="Intellij" style="max-width: 100%;"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" title="Firebase" style="max-width: 100%;"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop" style="max-width: 100%;">  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" title="Illstrator" style="max-width: 100%;">
+#### Linguagem
 
-### Aprendendo / Melhorando:
+<img alt="HTML5" title="HTML5" height="80" width="80" src="https://w3schoolsua.github.io/hyperskillua/svg/HTML5_icon.svg"><img alt="CSS3" title="CSS3" height="80" width="80" src="https://coryrylan.com/assets/images/posts/types/css.svg"><img alt="JavaScript" title="JavaScript" height="80" width="80" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png"><img alt="Python" title="Python" height="80" width="80" src="https://www.datacode.in/static/media/Python.7b71508d65970475824c.svg">    <img alt="PHP" title="PHP" height="80" width="80" src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/6242ba88faee5ceb27b7d9bf_php.svg">
 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" style="max-width: 100%;"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" style="max-width: 100%;"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL" style="max-width: 100%;">
+#### Ferramenta
+
+<img alt="vscode" title="vscode" height="80" width="80" src="https://cdn.prod.website-files.com/638179bb236f1f4d9473fa36/63ac8818d827c5880b4c0712_vscode-logo.svg">  <img alt="Intellij" title="Intellij" height="80" width="80" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg">  <img alt="Firebase" title="Firebase" height="80" width="80" src="https://cdn.prod.website-files.com/658002b040896ac0d98d8f10/65b759be4af7aae97ace8a5e_20848057.svg">  <img alt="Photoshop" title="Photoshop" height="80" width="80" src="https://www.computerschulung-duesseldorf.de/fileadmin/media/icons-produkt/Adobe-Photoshop-CC-icon.svg">   <img alt="Illstrator" title="Illstrator" height="80" width="80" src="https://static-00.iconduck.com/assets.00/adobe-illustrator-icon-2048x2048-61vks2fd.png"> <img alt="ChatGPT" title="ChatGPT" height="80" width="80" src="https://shoemakerfilms.com/wp-content/uploads/2023/03/ChatGPT_logo.svg"> <img alt="Gemini" title="Gemini" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Google_Bard_logo.svg"> <img alt="Google Colab" title="Google Colab" height="80" width="80" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/colab-color.png"> <img alt="N8N" title="N8N" height="80" width="80" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png"> <img alt="Docker" title="Docker" height="80" width="80" src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png">
+
+
+
+
+
+
+#### Aprendendo / Melhorando:
+
+
+<img alt="Linux" title="Linux" height="80" width="80" src="https://www.datacode.in/static/media/linux.db762ce7739a216d308d.svg"> <img alt="Java" title="Java" height="80" width="80" src="https://www.datacode.in/static/media/Java.e58ff2d148c608cb00c9.svg">  <img alt="SQL" title="SQL" height="80" width="80" src="https://amanduhkv.github.io/static/media/postgresql.af1eefab03322d8c1787f8e1598e2074.svg">
 
 ## 
 ### PROJETOS EM DESTAQUE:
