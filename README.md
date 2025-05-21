@@ -29,13 +29,24 @@ Atualmente aprimorando habilidades em programação para desenvolvimento de apli
 
 ##
 ### ESTATISTICAS:
-<h1 align="center"> 
-<div>
-<a href="https://github.com/amaro-netto">
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaro-netto&theme=dark&hide_border=true"/>
-  <div align="center"> 
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td rowspan="2" style="padding: 0;">
+        <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=donut-vertical&theme=dark&hide_border=true"/>
+      </td>
+      <td style="padding: 0;">
+        <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaro-netto&theme=dark&hide_border=true"/>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0;">
+        <img width="400em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
 </div>
-</div>
-</h1> 
+
+
+
