@@ -44,21 +44,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ### ESTATISTICAS:
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td rowspan="2" style="padding: 0;">
-        <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=donut-vertical&theme=dark&hide_border=true"/>
-      </td>
-      <td style="padding: 0;">
-        <img width="400em" src="https://github-readme-streak-stats.herokuapp.com?user=amaro-netto&theme=dark&hide_border=true&border_radius=1&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 0;">
-        <img width="400em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=compact&hide_border=true&theme=dark"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
 
