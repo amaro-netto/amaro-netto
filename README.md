@@ -46,9 +46,17 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ### ESTATISTICAS:
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=compact&hide_border=true&theme=dark"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td rowspan="2" style="padding: 0;">
+        <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=donut-vertical&theme=dark&hide_border=true"/>
+      </td>
+      <td style="padding: 0;">
+        <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaro-netto&theme=dark&hide_border=true"/>
+        <img width="400em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
+     </table>
 </div>
+
 
 
 
