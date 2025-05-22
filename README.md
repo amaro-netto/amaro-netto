@@ -49,7 +49,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   <table>
     <tr>
       <td>
-        <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=donut-vertical&theme=dark&hide_border=true"/>
+        <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=donut-vertical&theme=dark&hide_border=true"/>
       </td>
       <td>
         <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaro-netto&theme=dark&hide_border=true"/>
