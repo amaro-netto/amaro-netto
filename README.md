@@ -34,7 +34,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 #### Aprendendo / Melhorando:
 
 
-<img alt="Linux" title="Linux" height="80" width="80" src="https://www.datacode.in/static/media/linux.db762ce7739a216d308d.svg"> <img alt="Java" title="Java" height="80" width="80" src="https://www.datacode.in/static/media/Java.e58ff2d148c608cb00c9.svg">  <img alt="SQL" title="SQL" height="80" width="80" src="https://amanduhkv.github.io/static/media/postgresql.af1eefab03322d8c1787f8e1598e2074.svg">
+<img alt="Linux" title="Linux" height="80" width="80" src="https://www.datacode.in/static/media/linux.db762ce7739a216d308d.svg"> <img alt="Java" title="Java" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">  <img alt="SQL" title="SQL" height="80" width="80" src="https://amanduhkv.github.io/static/media/postgresql.af1eefab03322d8c1787f8e1598e2074.svg">
 
 ## 
 ### PROJETOS EM DESTAQUE:
