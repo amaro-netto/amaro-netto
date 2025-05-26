@@ -20,7 +20,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 #### Linguagens
 
-<img alt="HTML5" title="HTML5" height="80" width="80" src="https://w3schoolsua.github.io/hyperskillua/svg/HTML5_icon.svg"><img alt="CSS3" title="CSS3" height="80" width="80" src="https://coryrylan.com/assets/images/posts/types/css.svg"><img alt="JavaScript" title="JavaScript" height="80" width="80" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png"><img alt="Python" title="Python" height="80" width="80" src="https://www.datacode.in/static/media/Python.7b71508d65970475824c.svg">    <img alt="PHP" title="PHP" height="80" width="80" src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/6242ba88faee5ceb27b7d9bf_php.svg">
+<img alt="HTML5" title="HTML5" height="80" width="80" src="https://w3schoolsua.github.io/hyperskillua/svg/HTML5_icon.svg"><img alt="CSS3" title="CSS3" height="80" width="80" src="https://coryrylan.com/assets/images/posts/types/css.svg"><img alt="JavaScript" title="JavaScript" height="80" width="80" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png">    <img alt="PHP" title="PHP" height="80" width="80" src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/6242ba88faee5ceb27b7d9bf_php.svg">  
 
 #### Ferramentas
 
@@ -34,7 +34,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 #### Aprendendo / Melhorando:
 
 
-<img alt="Linux" title="Linux" height="80" width="80" src="https://www.datacode.in/static/media/linux.db762ce7739a216d308d.svg"> <img alt="Java" title="Java" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">  <img alt="SQL" title="SQL" height="80" width="80" src="https://amanduhkv.github.io/static/media/postgresql.af1eefab03322d8c1787f8e1598e2074.svg">
+<img alt="Linux" title="Linux" height="80" width="80" src="https://www.datacode.in/static/media/linux.db762ce7739a216d308d.svg"> <img alt="Java" title="Java" height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">  <img alt="SQL" title="SQL" height="80" width="80" src="https://amanduhkv.github.io/static/media/postgresql.af1eefab03322d8c1787f8e1598e2074.svg"> <img alt="Vite" title="Vite" height="80" width="80" src="https://img.icons8.com/fluent/512/vite.png"> <img alt="react" title="react" height="80" width="80" src="https://www.svgrepo.com/show/327388/logo-react.svg"> <img alt="Python" title="Python" height="80" width="80" src="https://www.datacode.in/static/media/Python.7b71508d65970475824c.svg">
 
 ## 
 ### PROJETOS EM DESTAQUE:
