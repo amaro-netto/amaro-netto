@@ -49,10 +49,10 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   <table style="border-collapse: collapse; border: none;">
     <tr align="center">
       <td align="center" rowspan="0" style="padding: 0;">
-        <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&layout=donut-vertical&theme=dark&hide_border=true"/>
+        <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&theme=dark&layout=pie&hide_border=true"/>
       </td>
       <td align="left" style="padding: 0;" width="430em">
-        <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaro-netto&theme=dark&hide_border=true"/>
+        <img width="400em" src="https://github-readme-streak-stats-eight.vercel.app?user=amaro-netto&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
         <img width="400em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
       </td>
     </tr>
