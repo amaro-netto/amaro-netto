@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil GitHub 👋
+### Bem vindo ao meu perfil GitHub <a href="https://wakatime.com/@f11e08a3-1e48-443d-9dee-c20dab8e7bc3"><img src="https://wakatime.com/badge/user/f11e08a3-1e48-443d-9dee-c20dab8e7bc3.svg" alt="Total time coded since May 2 2025" /></a>👋
 
 ### Sobre Mim:
 Morador de Itaguaí, RJ
@@ -20,23 +20,16 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 #### Linguagens
 
-<img alt="HTML5" title="HTML5" height="50" width="50" src="https://w3schoolsua.github.io/hyperskillua/svg/HTML5_icon.svg"><img alt="CSS3" title="CSS3" height="50" width="50" src="https://coryrylan.com/assets/images/posts/types/css.svg"><img alt="JavaScript" title="JavaScript" height="50" width="50" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png">    <img alt="PHP" title="PHP" height="50" width="40" src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/6242ba88faee5ceb27b7d9bf_php.svg">  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<a href="https://wakatime.com/@f11e08a3-1e48-443d-9dee-c20dab8e7bc3"><img src="https://wakatime.com/badge/user/f11e08a3-1e48-443d-9dee-c20dab8e7bc3.svg" alt="Total time coded since May 2 2025" /></a>
 
 #### Ferramentas
 
-<img alt="vscode" title="vscode" height="50" width="50" src="https://cdn.prod.website-files.com/638179bb236f1f4d9473fa36/63ac8818d827c5880b4c0712_vscode-logo.svg">  <img alt="Intellij" title="Intellij" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg">  <img alt="Firebase" title="Firebase" height="50" width="50" src="https://cdn.prod.website-files.com/658002b040896ac0d98d8f10/65b759be4af7aae97ace8a5e_20848057.svg">  <img alt="Photoshop" title="Photoshop" height="50" width="50" src="https://www.computerschulung-duesseldorf.de/fileadmin/media/icons-produkt/Adobe-Photoshop-CC-icon.svg">   <img alt="Illstrator" title="Illstrator" height="50" width="50" src="https://static-00.iconduck.com/assets.00/adobe-illustrator-icon-2048x2048-61vks2fd.png"> <img alt="ChatGPT" title="ChatGPT" height="50" width="50" src="https://shoemakerfilms.com/wp-content/uploads/2023/03/ChatGPT_logo.svg"> <img alt="Gemini" title="Gemini" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Google_Bard_logo.svg"> <img alt="Google Colab" title="Google Colab" height="50" width="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/colab-color.png"> <img alt="N8N" title="N8N" height="50" width="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png"> <img alt="Docker" title="Docker" height="50" width="50" src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png"> <img alt="ESXi" title="ESXi" height="50" width="50" src="https://www.liquidweb.com/wp-content/uploads/2024/03/install.esxi6_.021521.png"> <img alt="Proxmox" title="Proxmox" height="50" width="50" src="https://img.icons8.com/fluent/512/proxmox.png"> 
-
-
-
-
-
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374AA9C.svg?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-75A5FF?style=for-the-badge&logo=google-gemini&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black) ![N8N](https://img.shields.io/badge/n8n-1A2541?style=for-the-badge&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-6098C7?style=for-the-badge&logo=vmware&logoColor=white) ![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-6098C7?style=for-the-badge&logo=vmware&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 #### Aprendendo / Melhorando:
 
-
-<img alt="Linux" title="Linux" height="50" width="50" src="https://www.datacode.in/static/media/linux.db762ce7739a216d308d.svg"> <img alt="Java" title="Java" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">  <img alt="SQL" title="SQL" height="50" width="50" src="https://amanduhkv.github.io/static/media/postgresql.af1eefab03322d8c1787f8e1598e2074.svg"> <img alt="Vite" title="Vite" height="50" width="50" src="https://img.icons8.com/fluent/512/vite.png"> <img alt="react" title="react" height="50" width="50" src="https://www.svgrepo.com/show/327388/logo-react.svg"> <img alt="Python" title="Python" height="50" width="50" src="https://www.datacode.in/static/media/Python.7b71508d65970475824c.svg">
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=Airtable&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 
 ### PROJETOS EM DESTAQUE:
