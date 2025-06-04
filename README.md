@@ -1,7 +1,7 @@
 ### Bem vindo ao meu perfil GitHub
 
 ### Sobre Mim:
-Morador de Itaguaí, RJ
+33 anos - Morador de Itaguaí, RJ
 
 Profissional de TI com mais de 10 anos de experiência, iniciando como Suporte Técnico e evoluindo para a gestão de redes e infraestrutura, fiscalização de contratos e liderança de equipes em serviços de redes.
 
