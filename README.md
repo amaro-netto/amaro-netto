@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil GitHub <a href="https://wakatime.com/@f11e08a3-1e48-443d-9dee-c20dab8e7bc3"><img src="https://wakatime.com/badge/user/f11e08a3-1e48-443d-9dee-c20dab8e7bc3.svg" alt="Total time coded since May 2 2025" /></a>👋
+### Bem vindo ao meu perfil GitHub <a href="https://wakatime.com/@f11e08a3-1e48-443d-9dee-c20dab8e7bc3"><img src="https://wakatime.com/badge/user/f11e08a3-1e48-443d-9dee-c20dab8e7bc3.svg" alt="Total time coded since May 2 2025" /></a>
 
 ### Sobre Mim:
 Morador de Itaguaí, RJ
