@@ -29,7 +29,12 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 #### Aprendendo / Melhorando:
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=Airtable&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=Airtable&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Auth](https://img.shields.io/badge/Auth-FirebaseAuth-FFB300?style=for-the-badge&logo=firebase&logoColor=white)
+![Realtime DB](https://img.shields.io/badge/Realtime_DB-Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+
 
 ## 
 ### PROJETOS EM DESTAQUE:
