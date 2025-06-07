@@ -1,17 +1,8 @@
-### Bem vindo ao meu perfil GitHub
+### 👋 Olá, Bem vindo ao meu Github. Eu sou o Amaro!
 
-### Sobre Mim:
-33 anos - Morador de Itaguaí, RJ
-
-Profissional de TI com mais de 10 anos de experiência, iniciando como Suporte Técnico e evoluindo para a gestão de redes e infraestrutura, fiscalização de contratos e liderança de equipes em serviços de redes.
-
-Atuação na otimização de processos de TIC, com foco na criação, validação e melhoria de documentação técnica para garantir padronização, conformidade e eficiência operacional.
-
-Experiência na implantação de soluções tecnológicas, monitoramento de infraestrutura, segurança da informação, banco de dados, virtualização e aplicações web.
-
-Participação ativa na fiscalização de contratos de TIC, com foco no cumprimento de SLAs, qualidade dos serviços e controle de faturamento.
-
-Atualmente aprimorando habilidades em programação para desenvolvimento de aplicações e automação de processos, buscando otimizar operações e impulsionar a transformação digital.
+🎨 Designer Gráfico & 👨‍💻 Profissional de TI  
+🎮 Criador de jogos indie e entusiasta de tecnologia  
+🚀 Apaixonado por design, código limpo e experiências criativas
 
 ##
 
@@ -54,7 +45,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
       <td align="left" style="padding: 0;" width="430em">
         <img width="400em" src="https://github-readme-streak-stats-eight.vercel.app?user=amaro-netto&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
         <img width="400em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
-        <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=f11e08a3-1e48-443d-9dee-c20dab8e7bc3&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
+     <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amaronetto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
 
 </div>
 
