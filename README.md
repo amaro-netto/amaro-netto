@@ -1,8 +1,8 @@
-### 👋 Olá, Bem vindo ao meu Github. Eu sou o Amaro!
+### Olá, Bem vindo ao meu Github. Eu sou o Amaro!
 
-🎨 Designer Gráfico & 👨‍💻 Profissional de TI  
-🎮 Criador de jogos indie e entusiasta de tecnologia  
-🚀 Apaixonado por design, código limpo e experiências criativas
+Designer Gráfico & Profissional de TI  
+Criador de jogos indie e entusiasta de tecnologia  
+Apaixonado por design, código limpo e experiências criativas
 
 ##
 
