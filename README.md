@@ -49,7 +49,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   </table>
 </div>
 
-### 🏆 GitHub Profile Trophy
+### GitHub Profile Trophy
 
 <p align="center">
   <a
