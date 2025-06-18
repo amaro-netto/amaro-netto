@@ -46,10 +46,30 @@ Aqui estão algumas das tecnologias com as quais trabalho:
       <img width="400em" src="https://github-readme-streak-stats-eight.vercel.app?user=amaro-netto&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&v=1"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&v=1"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amaronetto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&v=1"/>
-
-
+  </table>
 </div>
 
+### 🏆 GitHub Profile Trophy
 
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=amaro-netto&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/amaro-netto/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
