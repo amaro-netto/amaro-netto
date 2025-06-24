@@ -1,0 +1,20 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Isso vai rodar o action a cada 12 horas
+  workflow_dispatch: # Isso permite que você rode o action manualmente se precisar
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: platane/snk@v3
+        with:
+          github_user_name: amaro-netto # Seu nome de usuário do GitHub
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark # Para o tema escuro
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token automático fornecido pelo GitHub
