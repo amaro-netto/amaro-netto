@@ -35,6 +35,13 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 - [🖥️ MeuSite](https://github.com/amaro-netto/dark-mode-portfolio) - Landing page com foco em performance e acessibilidade
 
 ##
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
+    <img src="https://github-profile-trophy.vercel.app/?username=amaro-netto&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=,-?&row=2"/>
+  </a>
+</p>
+
 ### ESTATISTICAS:
 
 <div align="center">
@@ -48,20 +55,6 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amaronetto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&v=1"/>
   </table>
 </div>
-
-### GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=amaro-netto&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=,-?&row=2"
-    />
-  </a>
-</p>
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
