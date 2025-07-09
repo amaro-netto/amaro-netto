@@ -52,7 +52,6 @@ Aqui estão algumas das tecnologias com as quais trabalho:
       <td align="left" style="padding: 0;" width="430em">
       <img width="400em" src="https://github-readme-streak-stats-eight.vercel.app?user=amaro-netto&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&v=1"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&v=1"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amaronetto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&v=1"/>
   </table>
 </div>
 
