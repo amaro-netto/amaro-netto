@@ -58,7 +58,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=amaro-netto&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=amaro-netto&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=,-?&row=2"
     />
   </a>
 </p>
