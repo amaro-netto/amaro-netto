@@ -4,6 +4,17 @@ Designer Gráfico & Profissional de TI
 Criador de jogos indie e entusiasta de tecnologia  
 Apaixonado por design, código limpo e experiências criativas
 
+### No momento como vão os estudos:
+JAVA: ONE - Oracle Next Education - Alura
+
+Python: BOOTCAMP Santander 2025 - Back-End com Python - DIO
+
+CyberSecurity: Google CIEE - Coursera
+
+Gestão da Técnologia da Infomação: Pós Graduação - Uniasselvi
+
+Certificações Oracle Cloud Infrastructure - Oracle University 
+
 ##
 
 ### Minhas Tecnologias
@@ -99,24 +110,54 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 </div>
 
 
-
 <div align="center" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 845px; box-sizing: border-box; margin-top: 20px;">
   <h3>FERRAMENTAS E IDEs</h3>
   <table style="table-layout: fixed; width: 100%;">
     <tbody>
       <tr>
-        <td>
+        <td style="font-weight: bold; text-align: left; vertical-align: top; width: 30%;">IDEs e Desenvolvimento</td>
+        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px; width: 70%;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40">
           <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="Google Colaboratory" title="Google Colaboratory" width="40" height="40">   
+        </td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; text-align: left; vertical-align: top;">Containerização</td>
+        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40">
+        </td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; text-align: left; vertical-align: top;">Virtualização</td>
+        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
           <img src="https://img.icons8.com/?size=100&id=53iFar0HpEW9&format=png&color=000000" alt="Proxmox" title="Proxmox" width="40" height="40">
-          <img src="https://dt-cdn.net/hub/logos/vcenter-server.png" alt="Proxmox" title="Proxmox" width="40" height="40">
+          <img src="https://dt-cdn.net/hub/logos/vcenter-server.png" alt="VMware / VMware ESXi" title="VMware / VMware ESXi" width="40" height="40">
+        </td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; text-align: left; vertical-align: top;">Automação de Workflows</td>
+        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
           <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n" title="n8n (automação de workflows)" width="40" height="40">
+        </td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; text-align: left; vertical-align: top;">Design Gráfico</td>
+        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="40" height="40">
+        </td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; text-align: left; vertical-align: top;">Assistentes de IA</td>
+        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" title="ChatGPT" width="40" height="40">
-           <img src="https://static.vecteezy.com/system/resources/previews/055/687/055/non_2x/rectangle-gemini-google-icon-symbol-logo-free-png.png" alt="Gemini" title="Gemini" width="40" height="40">
+          <img src="https://static.vecteezy.com/system/resources/previews/055/687/055/non_2x/rectangle-gemini-google-icon-symbol-logo-free-png.png" alt="Gemini" title="Gemini" width="40" height="40">
+        </td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; text-align: left; vertical-align: top;">Desenvolvimento de Jogos</td>
+        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" title="Godot" width="40" height="40">
         </td>
       </tr>
@@ -132,13 +173,13 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ##
 
+### ESTATISTICAS:
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
     <img src="https://github-profile-trophy.vercel.app/?username=amaro-netto&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=,-?&row=2"/>
   </a>
 </p>
-
-### ESTATISTICAS:
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
