@@ -152,4 +152,4 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaro-netto&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaro-netto&theme=github-dark&area=true&hide_border=true&hide_title=true" alt="activity-graph graph"  />
