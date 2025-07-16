@@ -169,8 +169,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ## 
 ### PROJETOS EM DESTAQUE:
 
-- [📱 MeuApp](https://github.com/usuario/meuapp) - App mobile feito em 
-- [🖥️ MeuSite](https://github.com/amaro-netto/dark-mode-portfolio) - Landing page com foco em performance e acessibilidade
+- [📱 MeuApp](https://github.com/usuario/) - App mobile (em contrução)
+- [🖥️ MeuSite](https://github.com/amaro-netto/) - Landing page (em contrução)
 
 ##
 
