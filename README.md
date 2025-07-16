@@ -4,7 +4,8 @@ Designer Gráfico & Profissional de TI
 Criador de jogos indie e entusiasta de tecnologia  
 Apaixonado por design, código limpo e experiências criativas
 
-### No momento como vão os estudos:
+### Atualmente estudando:
+
 JAVA: ONE - Oracle Next Education - Alura
 
 Python: BOOTCAMP Santander 2025 - Back-End com Python - DIO
