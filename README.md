@@ -9,21 +9,120 @@ Apaixonado por design, código limpo e experiências criativas
 ### Minhas Tecnologias
 Aqui estão algumas das tecnologias com as quais trabalho:
 
-#### Linguagens
+<div align="center" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 845px; box-sizing: border-box;">
+  <h3>FRONT-END</h3>
+  <table style="table-layout: fixed; width: 100%;">
+    <thead>
+      <tr>
+        <th>Linguagens</th>
+        <th>Frameworks</th>
+        <th>Bibliotecas</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart" width="40" height="40">
+        </td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" width="40" height="40">
+        </td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" title="jQuery" width="40" height="40">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<div align="center" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 845px; box-sizing: border-box; margin-top: 20px;">
+  <h3>BACK-END</h3>
+  <table style="table-layout: fixed; width: 100%;">
+    <thead>
+      <tr>
+        <th>Linguagens</th>
+        <th>Frameworks</th>
+        <th>Bibliotecas / Serviços</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="40" height="40">
+        </td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" width="40" height="40">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase (BaaS)" title="Firebase (BaaS)" width="40" height="40">
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase Auth" title="Firebase Auth" width="40" height="40">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase Realtime Database" title="Firebase Realtime Database" width="40" height="40">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div align="center" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 845px; box-sizing: border-box; margin-top: 20px;">
+  <h3>DATABASE</h3>
+  <table style="table-layout: fixed; width: 100%;">
+    <thead>
+      <tr>
+        <th>SQL</th>
+        <th>NoSQL</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="40" height="40">
+        </td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Realtime Database" title="Firebase Realtime Database" width="40" height="40">
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="40" height="40">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
-#### Ferramentas
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374AA9C.svg?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-75A5FF?style=for-the-badge&logo=google-gemini&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black) ![N8N](https://img.shields.io/badge/n8n-1A2541?style=for-the-badge&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-6098C7?style=for-the-badge&logo=vmware&logoColor=white) ![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-6098C7?style=for-the-badge&logo=vmware&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-
-
-#### Aprendendo / Melhorando:
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=Airtable&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Auth](https://img.shields.io/badge/Auth-FirebaseAuth-FFB300?style=for-the-badge&logo=firebase&logoColor=white) ![Realtime DB](https://img.shields.io/badge/Realtime_DB-Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Insomnia](https://img.shields.io/badge/INSOMNIA-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-
-
+<div align="center" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 845px; box-sizing: border-box; margin-top: 20px;">
+  <h3>FERRAMENTAS E IDEs</h3>
+  <table style="table-layout: fixed; width: 100%;">
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40">
+          <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="Google Colaboratory" title="Google Colaboratory" width="40" height="40">   
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40">
+          <img src="https://img.icons8.com/?size=100&id=53iFar0HpEW9&format=png&color=000000" alt="Proxmox" title="Proxmox" width="40" height="40">
+          <img src="https://dt-cdn.net/hub/logos/vcenter-server.png" alt="Proxmox" title="Proxmox" width="40" height="40">
+          <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n" title="n8n (automação de workflows)" width="40" height="40">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="40" height="40">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" title="ChatGPT" width="40" height="40">
+           <img src="https://static.vecteezy.com/system/resources/previews/055/687/055/non_2x/rectangle-gemini-google-icon-symbol-logo-free-png.png" alt="Gemini" title="Gemini" width="40" height="40">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" title="Godot" width="40" height="40">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## 
 ### PROJETOS EM DESTAQUE:
@@ -52,13 +151,5 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   </table>
 </div>
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/amaro-netto/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaro-netto&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
