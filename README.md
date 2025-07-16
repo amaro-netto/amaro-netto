@@ -14,7 +14,7 @@ CyberSecurity: Google CIEE - Coursera
 
 Gestão da Técnologia da Infomação: Pós Graduação - Uniasselvi
 
-Certificações Oracle Cloud Infrastructure - Oracle University 
+Oracle Cloud Infrastructure: Certificação - Oracle University 
 
 ##
 
