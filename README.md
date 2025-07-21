@@ -194,5 +194,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   </table>
 </div>
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaro-netto&theme=github-dark&area=true&hide_border=true&hide_title=true" alt="activity-graph graph"  />
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaro-netto&theme=github-dark&area=true&hide_border=true&hide_title=true" alt="activity-graph graph"/>
+<img width="600em" src="https://grafdev.vercel.app/api/generate-chart?username=amaro-netto&layout=compact&theme=dark&hide_border=true"/>
+</div>
