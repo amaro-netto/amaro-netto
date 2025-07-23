@@ -178,7 +178,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img src="https://github-profile-trophy.vercel.app/?username=amaro-netto&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=,-?&row=2"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=amaro-netto&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=,-?&row=2&no-bg=true"/>
   </a>
 </p>
 
@@ -186,16 +186,16 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   <table style="border-collapse: collapse; border: none;">
     <tr align="center">
       <td align="center" rowspan="0" style="padding: 0;">
-        <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&theme=dark&layout=pie&hide_border=true&v=3&langs_count=20&v=1"/>
+        <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&theme=dark&layout=pie&hide_border=true&v=3&langs_count=20&v=1&no-bg=true"/>
       <td align="left" style="padding: 0;" width="430em">
-      <img width="400em" src="https://github-readme-streak-stats-eight.vercel.app?user=amaro-netto&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&v=1"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&v=1&rank_icon=github"/>
-        <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amaronetto&layout=compact&theme=dark&hide_border=true"/>
+      <img width="400em" src="https://github-readme-streak-stats-eight.vercel.app?user=amaro-netto&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&v=1&no-bg=true"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&v=1&rank_icon=github&no-bg=true"/>
+        <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amaronetto&layout=compact&theme=dark&hide_border=true&no-bg=true"/>
   </table>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaro-netto&theme=github-dark&area=true&hide_border=true&hide_title=true" alt="activity-graph graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaro-netto&theme=github-dark&area=true&hide_border=true&hide_title=true&no-bg=true" alt="activity-graph graph"/>
 </div>
 
 <div align="center">
