@@ -4,7 +4,7 @@ Designer Gráfico & Profissional de TI
 Criador de jogos indie e entusiasta de tecnologia  
 Apaixonado por design, código limpo e experiências criativas
 
-### Atualmente estudando:
+### Estudos de 2025:
 
 JAVA: ONE - Oracle Next Education - Alura
 
