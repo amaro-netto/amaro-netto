@@ -6,15 +6,15 @@ Apaixonado por design, código limpo e experiências criativas
 
 ### Estudos de 2025:
 
-JAVA: ONE - Oracle Next Education - Alura
+JAVA: ONE - Oracle Next Education - Alura 33/34 concluido
 
 Python: BOOTCAMP Santander 2025 - Back-End com Python - DIO
 
-CyberSecurity: Google CIEE - Coursera
+CyberSecurity: Google CIEE - Coursera 6/8 concluido
 
-Gestão da Técnologia da Infomação: Pós Graduação - Uniasselvi
+Gestão da Técnologia da Infomação: Pós Graduação - Uniasselvi 3/4 concluidos
 
-Oracle Cloud Infrastructure: Certificação - Oracle University 
+Oracle Cloud Infrastructure: Certificação - Oracle University  0/4
 
 ##
 
