@@ -26,63 +26,62 @@ Aqui estão algumas das tecnologias com as quais trabalho:
     <th rowspan="4"><small>FRONT-END</small></th>
     <td><small><strong>Linguagens</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html" height="30">
-      <img src="https://skillicons.dev/icons?i=css" height="30">
-      <img src="https://skillicons.dev/icons?i=js" height="30">
-      <img src="https://skillicons.dev/icons?i=ts" height="30">
+      <img src="https://skillicons.dev/icons?i=html" height="30" title="HTML5">
+      <img src="https://skillicons.dev/icons?i=css" height="30" title="CSS3">
+      <img src="https://skillicons.dev/icons?i=js" height="30" title="JavaScript">
+      <img src="https://skillicons.dev/icons?i=ts" height="30" title="TypeScript">
     </td>
     <th rowspan="4"><small>BACK-END</small></th>
     <td><small><strong>Linguagens</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js" height="30">
-      <img src="https://skillicons.dev/icons?i=python" height="30">
-      <img src="https://skillicons.dev/icons?i=php" height="30">
+      <img src="https://skillicons.dev/icons?i=js" height="30" title="JavaScript">
+      <img src="https://skillicons.dev/icons?i=python" height="30" title="Python">
+      <img src="https://skillicons.dev/icons?i=php" height="30" title="PHP">
     </td>
     <th rowspan="4"><small>DATABASE</small></th>
     <td><small><strong>SQL</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres" height="30">
-      <img src="https://skillicons.dev/icons?i=mysql" height="30">
+      <img src="https://skillicons.dev/icons?i=postgres" height="30" title="PostgreSQL">
+      <img src="https://skillicons.dev/icons?i=mysql" height="30" title="MySQL">
     </td>
   </tr>
   <tr>
     <td><small><strong>Frameworks</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vite" height="30">
-      <img src="https://skillicons.dev/icons?i=vue" height="30">
+      <img src="https://skillicons.dev/icons?i=vite" height="30" title="Vite.js">
+      <img src="https://skillicons.dev/icons?i=vue" height="30" title="Vue.js">
     </td>
     <td><small><strong>Frameworks</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" height="30">
-      <img src="https://skillicons.dev/icons?i=express" height="30">
-      <img src="https://skillicons.dev/icons?i=firebase" height="30">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="30" title="Node.js">
+      <img src="https://skillicons.dev/icons?i=express" height="30" title="Express.js">
+      <img src="https://skillicons.dev/icons?i=firebase" height="30" title="Firebase">
     </td>
     <td><small><strong>NoSQL</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=firebase" height="30">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="30">
+      <img src="https://skillicons.dev/icons?i=firebase" height="30" title="Firebase Realtime Database">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="30" title="MongoDB">
     </td>
   </tr>
   <tr>
     <td><small><strong>Bibliotecas</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=tailwind" height="30">
-      <img src="https://skillicons.dev/icons?i=react" height="30">
-      <img src="https://skillicons.dev/icons?i=jquery" height="30">
+      <img src="https://skillicons.dev/icons?i=tailwind" height="30" title="Tailwind CSS">
+      <img src="https://skillicons.dev/icons?i=react" height="30" title="React">
+      <img src="https://skillicons.dev/icons?i=jquery" height="30" title="jQuery">
     </td>
     <td><small><strong>Bibliotecas / Serviços</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=firebase" height="30">
-      <img src="https://skillicons.dev/icons?i=firebase" height="30">
-      <img src="https://skillicons.dev/icons?i=firebase" height="30">
+      <img src="https://skillicons.dev/icons?i=firebase" height="30" title="Firebase Auth">
+      <img src="https://skillicons.dev/icons?i=firebase" height="30" title="Firebase Hosting">
+      <img src="https://skillicons.dev/icons?i=firebase" height="30" title="Firebase Functions">
     </td>
     <td><small><strong>API</strong></small></td>
     <td>
-      <img src="https://img.shields.io/badge/REST-009688?logo=api&logoColor=white" height="25">
+      <img src="https://img.shields.io/badge/REST-009688?logo=api&logoColor=white" height="25" title="REST API">
     </td>
   </tr>
 </table>
-
 
 <div align="center" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 845px; box-sizing: border-box; margin-top: 20px;">
   <h3>FERRAMENTAS E IDEs</h3>
