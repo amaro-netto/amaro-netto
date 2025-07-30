@@ -90,60 +90,62 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   </tr>
 </table>
 
-<div align="center" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 845px; box-sizing: border-box; margin-top: 20px;">
-  <h3>FERRAMENTAS</h3>
-  <table style="table-layout: fixed; width: 100%;">
-    <tbody>
-      <tr>
-        <td style="font-weight: bold; text-align: left; vertical-align: top; width: 30%;">Desenvolvimento</td>
-        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px; width: 70%;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40">
-          <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" alt="Google Colaboratory" title="Google Colaboratory" width="40" height="40">   
-        </td>
-      </tr>
-      <tr>
-        <td style="font-weight: bold; text-align: left; vertical-align: top;">Containerização</td>
-        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40">
-        </td>
-      </tr>
-      <tr>
-        <td style="font-weight: bold; text-align: left; vertical-align: top;">Virtualização</td>
-        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
-          <img src="https://img.icons8.com/?size=100&id=53iFar0HpEW9&format=png&color=000000" alt="Proxmox" title="Proxmox" width="40" height="40">
-          <img src="https://dt-cdn.net/hub/logos/vcenter-server.png" alt="VMware / VMware ESXi" title="VMware / VMware ESXi" width="40" height="40">
-        </td>
-      </tr>
-      <tr>
-        <td style="font-weight: bold; text-align: left; vertical-align: top;">Automação de Workflows</td>
-        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
-          <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n" title="n8n (automação de workflows)" width="40" height="40">
-        </td>
-      </tr>
-      <tr>
-        <td style="font-weight: bold; text-align: left; vertical-align: top;">Design Gráfico</td>
-        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" title="Adobe Illustrator" width="40" height="40">
-        </td>
-      </tr>
-      <tr>
-        <td style="font-weight: bold; text-align: left; vertical-align: top;">Assistentes de IA</td>
-        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" title="ChatGPT" width="40" height="40">
-          <img src="https://static.vecteezy.com/system/resources/previews/055/687/055/non_2x/rectangle-gemini-google-icon-symbol-logo-free-png.png" alt="Gemini" title="Gemini" width="40" height="40">
-        </td>
-      </tr>
-      <tr>
-        <td style="font-weight: bold; text-align: left; vertical-align: top;">Desenvolvimento de Jogos</td>
-        <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" title="Godot" width="40" height="40">
-        </td>
-      </tr>
-    </tbody>
+<div>
+  <table>
+    <tr>
+      <!-- Desenvolvimento -->
+      <th style="text-orientation: upright;"><small>Desenvolvimento</small></th>
+      <!-- Containerização -->
+      <th style=""><small>Containerização</small></th>
+      <!-- Virtualização -->
+      <th style=";"><small>Virtualização</small></th>
+      <!-- Automação -->
+      <th style=";"><small>Automação</small></th>
+      <!-- Design -->
+      <th style=";"><small>Design</small></th>
+      <!-- IA -->
+      <th style=";"><small>IA</small></th>
+      <!-- Games -->
+      <th style=";"><small>Games</small></th>
+    </tr>
+    <tr>
+      <!-- Desenvolvimento -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40">
+        <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" title="Google Colab" width="40" height="40">
+      </td>
+      <!-- Containerização -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40">
+      </td>
+      <!-- Virtualização -->
+      <td align="center">
+        <img src="https://img.icons8.com/?size=100&id=53iFar0HpEW9&format=png&color=000000" title="Proxmox" width="40" height="40">
+        <img src="https://dt-cdn.net/hub/logos/vcenter-server.png" title="VMware / ESXi" width="40" height="40">
+      </td>
+      <!-- Automação -->
+      <td align="center">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" title="n8n" width="40" height="40">
+      </td>
+      <!-- Design -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="40" height="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" width="40" height="40">
+      </td>
+      <!-- IA -->
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" width="40" height="40">
+        <img src="https://static.vecteezy.com/system/resources/previews/055/687/055/non_2x/rectangle-gemini-google-icon-symbol-logo-free-png.png" title="Gemini" width="40" height="40">
+      </td>
+      <!-- Games -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot Engine" width="40" height="40">
+      </td>
+    </tr>
   </table>
 </div>
+
 
 ##
 
