@@ -18,6 +18,13 @@ Oracle Cloud Infrastructure: Certificação - Oracle University  0/4
 
 ##
 
+### PROJETOS EM DESTAQUE:
+
+- [📱 MeuApp](https://github.com/usuario/) - App mobile (em contrução)
+- [🖥️ MeuSite](https://github.com/amaro-netto/) - Landing page (em contrução)
+
+##
+
 ### Minhas Tecnologias
 Aqui estão algumas das tecnologias com as quais trabalho:
 
@@ -137,12 +144,6 @@ Aqui estão algumas das tecnologias com as quais trabalho:
     </tbody>
   </table>
 </div>
-
-## 
-### PROJETOS EM DESTAQUE:
-
-- [📱 MeuApp](https://github.com/usuario/) - App mobile (em contrução)
-- [🖥️ MeuSite](https://github.com/amaro-netto/) - Landing page (em contrução)
 
 ##
 
