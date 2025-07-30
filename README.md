@@ -30,7 +30,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 <table>
   <tr>
-    <th rowspan="4"><small>FRONT-END</small></th>
+    <th rowspan="4"><small> F<br>R<br>O<br>N<br>T<br>-<br>E<br>N<br>D</small></th>
     <td><small><strong>Linguagens</strong></small></td>
     <td>
       <img src="https://skillicons.dev/icons?i=html" height="30" title="HTML5">
@@ -38,14 +38,14 @@ Aqui estão algumas das tecnologias com as quais trabalho:
       <img src="https://skillicons.dev/icons?i=js" height="30" title="JavaScript">
       <img src="https://skillicons.dev/icons?i=ts" height="30" title="TypeScript">
     </td>
-    <th rowspan="4"><small>BACK-END</small></th>
+    <th rowspan="4"><small> B<br>A<br>C<br>K<br>-<br>E<br>N<br>D</small></th>
     <td><small><strong>Linguagens</strong></small></td>
     <td>
       <img src="https://skillicons.dev/icons?i=js" height="30" title="JavaScript">
       <img src="https://skillicons.dev/icons?i=python" height="30" title="Python">
       <img src="https://skillicons.dev/icons?i=php" height="30" title="PHP">
     </td>
-    <th rowspan="4"><small>DATABASE</small></th>
+    <th rowspan="4"><small>D<br>A<br>T<br>A<br>B<br>A<br>S<br>E</small></th>
     <td><small><strong>SQL</strong></small></td>
     <td>
       <img src="https://skillicons.dev/icons?i=postgres" height="30" title="PostgreSQL">
