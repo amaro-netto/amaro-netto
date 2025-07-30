@@ -91,11 +91,11 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 </table>
 
 <div align="center" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; width: 845px; box-sizing: border-box; margin-top: 20px;">
-  <h3>FERRAMENTAS E IDEs</h3>
+  <h3>FERRAMENTAS</h3>
   <table style="table-layout: fixed; width: 100%;">
     <tbody>
       <tr>
-        <td style="font-weight: bold; text-align: left; vertical-align: top; width: 30%;">IDEs e Desenvolvimento</td>
+        <td style="font-weight: bold; text-align: left; vertical-align: top; width: 30%;">Desenvolvimento</td>
         <td style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px; width: 70%;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40">
