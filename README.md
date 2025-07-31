@@ -6,7 +6,7 @@ Apaixonado por design, código limpo e experiências criativas
 
 ### Estudos de 2025:
 
-JAVA: ONE - Oracle Next Education - Alura 33/34 concluido
+JAVA: ONE - Oracle Next Education - Alura 34/34 concluido
 
 Python: BOOTCAMP Santander 2025 - Back-End com Python - DIO
 
