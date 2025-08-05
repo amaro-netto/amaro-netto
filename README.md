@@ -113,43 +113,43 @@ Aqui estão algumas das tecnologias com as quais trabalho:
     <tr>
       <!-- Desenvolvimento -->
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40">
-        <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" title="Google Colab" width="40" height="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="30" height="30">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="30" height="30">
+        <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" title="Google Colab" width="30" height="30">
       </td>
       <!-- Containerização -->
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="30" height="30">
       </td>
       <!-- Virtualização -->
       <td align="center">
-        <img src="https://img.icons8.com/?size=100&id=53iFar0HpEW9&format=png&color=000000" title="Proxmox" width="40" height="40">
-        <img src="https://dt-cdn.net/hub/logos/vcenter-server.png" title="VMware / ESXi" width="40" height="40">
+        <img src="https://img.icons8.com/?size=100&id=53iFar0HpEW9&format=png&color=000000" title="Proxmox" width="30" height="30">
+        <img src="https://dt-cdn.net/hub/logos/vcenter-server.png" title="VMware / ESXi" width="30" height="30">
       </td>
       <!-- Automação -->
       <td align="center">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" title="n8n" width="40" height="40">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" title="n8n" width="30" height="30">
       </td>
       <!-- Design -->
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="40" height="40">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" width="40" height="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="30" height="30">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" width="30" height="30">
       </td>
       <!-- IA -->
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" width="40" height="40">
-        <img src="https://static.vecteezy.com/system/resources/previews/055/687/055/non_2x/rectangle-gemini-google-icon-symbol-logo-free-png.png" title="Gemini" width="40" height="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" width="30" height="30">
+        <img src="https://static.vecteezy.com/system/resources/previews/055/687/055/non_2x/rectangle-gemini-google-icon-symbol-logo-free-png.png" title="Gemini" width="30" height="30">
       </td>
       <!-- Games -->
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot Engine" width="40" height="40">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot Engine" width="30" height="30">
       </td>
         <!-- BaaS -->
       <td align="center">
-        <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" title="Vercel" width="40" height="40">
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" width="40" height="40">
-        <img src="https://railway.com/brand/logo-light.svg" title="Railway" width="40" height="40">
-        <img src="https://www.svgrepo.com/show/376339/netlify.svg" title="Netlify" width="40" height="40">
+        <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" title="Vercel" width="30" height="30">
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" width="30" height="30">
+        <img src="https://railway.com/brand/logo-light.svg" title="Railway" width="30" height="30">
+        <img src="https://www.svgrepo.com/show/376339/netlify.svg" title="Netlify" width="30" height="30">
       </td>
     </tr>
   </table>
