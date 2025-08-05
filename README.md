@@ -107,6 +107,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
       <th style=";"><small>IA</small></th>
       <!-- Games -->
       <th style=";"><small>Games</small></th>
+      <!-- BaaS -->
+      <th style=";"><small>BaaS</small></th>
     </tr>
     <tr>
       <!-- Desenvolvimento -->
@@ -141,6 +143,13 @@ Aqui estão algumas das tecnologias com as quais trabalho:
       <!-- Games -->
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot Engine" width="40" height="40">
+      </td>
+        <!-- BaaS -->
+      <td align="center">
+        <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" title="Vercel" width="40" height="40">
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" width="40" height="40">
+        <img src="https://railway.com/brand/logo-light.svg" title="Railway" width="40" height="40">
+        <img src="https://www.svgrepo.com/show/376339/netlify.svg" title="Netlify" width="40" height="40">
       </td>
     </tr>
   </table>
