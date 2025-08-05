@@ -95,7 +95,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
     <tr>
       <!-- Desenvolvimento -->
       <th style="text-orientation: upright;"><small>Desenvolvimento</small></th>
-      <!-- Containerização -->
+      <!-- Container -->
       <th style=""><small>Containerização</small></th>
       <!-- Virtualização -->
       <th style=";"><small>Virtualização</small></th>
@@ -109,48 +109,85 @@ Aqui estão algumas das tecnologias com as quais trabalho:
       <th style=";"><small>Games</small></th>
       <!-- BaaS -->
       <th style=";"><small>BaaS</small></th>
+       <!-- BaaS -->
+      <th style=";"><small>API Teste</small></th>
     </tr>
     <tr>
       <!-- Desenvolvimento -->
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="30" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="30" height="30">
-        <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" title="Google Colab" width="30" height="30">
-      </td>
-      <!-- Containerização -->
+<td align="center">
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="30" height="30">
+  </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="30" height="30">
+  </div>
+  <div>
+    <img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" title="Google Colab" width="30" height="30">
+  </div>
+</td>
+      <!-- Container -->
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="30" height="30">
       </td>
       <!-- Virtualização -->
-      <td align="center">
-        <img src="https://img.icons8.com/?size=100&id=53iFar0HpEW9&format=png&color=000000" title="Proxmox" width="30" height="30">
-        <img src="https://dt-cdn.net/hub/logos/vcenter-server.png" title="VMware / ESXi" width="30" height="30">
-      </td>
+<td align="center">
+  <div>
+    <img src="https://img.icons8.com/?size=100&id=53iFar0HpEW9&format=png&color=000000" title="Proxmox" width="30" height="30">
+  </div>
+  <div>
+    <img src="https://dt-cdn.net/hub/logos/vcenter-server.png" title="VMware / ESXi" width="30" height="30">
+  </div>
+</td>
       <!-- Automação -->
       <td align="center">
         <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" title="n8n" width="30" height="30">
       </td>
       <!-- Design -->
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="30" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" width="30" height="30">
-      </td>
+<td align="center">
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="30" height="30">
+  </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" width="30" height="30">
+  </div>
+</td>
       <!-- IA -->
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" width="30" height="30">
-        <img src="https://static.vecteezy.com/system/resources/previews/055/687/055/non_2x/rectangle-gemini-google-icon-symbol-logo-free-png.png" title="Gemini" width="30" height="30">
-      </td>
+<td align="center">
+  <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" width="30" height="30">
+  </div>
+  <div>
+    <img src="https://static.vecteezy.com/system/resources/previews/055/687/055/non_2x/rectangle-gemini-google-icon-symbol-logo-free-png.png" title="Gemini" width="30" height="30">
+  </div>
+</td>
       <!-- Games -->
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot Engine" width="30" height="30">
       </td>
         <!-- BaaS -->
-      <td align="center">
-        <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" title="Vercel" width="30" height="30">
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" width="30" height="30">
-        <img src="https://railway.com/brand/logo-light.svg" title="Railway" width="30" height="30">
-        <img src="https://www.svgrepo.com/show/376339/netlify.svg" title="Netlify" width="30" height="30">
-      </td>
+<td align="center">
+  <div>
+    <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" title="Vercel" width="30" height="30">
+  </div>
+  <div>
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" width="30" height="30">
+  </div>
+  <div>
+    <img src="https://railway.com/brand/logo-light.svg" title="Railway" width="30" height="30">
+  </div>
+  <div>
+    <img src="https://www.svgrepo.com/show/376339/netlify.svg" title="Netlify" width="30" height="30">
+  </div>
+</td>
+              <!-- API Teste -->
+<td align="center">
+  <div>
+    <img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" title="Insomnia" width="30" height="30">
+  </div>
+  <div>
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" width="30" height="30">
+  </div>
+</td>
     </tr>
   </table>
 </div>
