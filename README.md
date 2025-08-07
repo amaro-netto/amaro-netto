@@ -62,11 +62,9 @@ Aqui estão algumas das tecnologias com as quais trabalho:
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs" height="30" title="Node.js">
       <img src="https://skillicons.dev/icons?i=express" height="30" title="Express.js">
-      <img src="https://skillicons.dev/icons?i=firebase" height="30" title="Firebase">
     </td>
     <td><small><strong>NoSQL</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=firebase" height="30" title="Firebase Realtime Database">
       <img src="https://skillicons.dev/icons?i=mongodb" height="30" title="MongoDB">
     </td>
   </tr>
@@ -79,9 +77,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
     </td>
     <td><small><strong>Bibliotecas / Serviços</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=firebase" height="30" title="Firebase Auth">
-      <img src="https://skillicons.dev/icons?i=firebase" height="30" title="Firebase Hosting">
-      <img src="https://skillicons.dev/icons?i=firebase" height="30" title="Firebase Functions">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="30" title="Pandas"> 
     </td>
     <td><small><strong>API</strong></small></td>
     <td>
@@ -149,10 +145,10 @@ Aqui estão algumas das tecnologias com as quais trabalho:
       <!-- Design -->
 <td align="center">
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="30" height="30">
+    <img src="https://skillicons.dev/icons?i=ps" title="Photoshop" width="30" height="30">
   </div>
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" width="30" height="30">
+    <img src="https://skillicons.dev/icons?i=ai" title="Illustrator" width="30" height="30">
   </div>
 </td>
       <!-- IA -->
@@ -182,6 +178,9 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   <div>
     <img src="https://www.svgrepo.com/show/376339/netlify.svg" title="Netlify" width="30" height="30">
   </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=firebase" height="30" title="Firebase">
+    </div>
 </td>
               <!-- API Teste -->
 <td align="center">
