@@ -49,7 +49,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
     <td>
       <img src="https://raw.githubusercontent.com/amaro-netto/icons/ab607b13d854bfbccdf2e50665dda1b167ff8097/icons/Linguagens/color/java.svg" height="40" title="JAVA">
       <img src="https://raw.githubusercontent.com/amaro-netto/icons/ab607b13d854bfbccdf2e50665dda1b167ff8097/icons/Linguagens/color/html.svg" height="40" title="HTML5">
-      <img src="https://raw.githubusercontent.com/amaro-netto/icons/ab607b13d854bfbccdf2e50665dda1b167ff8097/icons/Linguagens/color/css.svg" height="40" title="CSS3">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/34daf2950c378b077a90398837ccb6821c139c69/css.svg" title="CSS3">
       <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Linguagens/color/javascript.svg" height="40" title="JavaScript">
       <img src="https://raw.githubusercontent.com/amaro-netto/icons/ab607b13d854bfbccdf2e50665dda1b167ff8097/icons/Linguagens/color/TypeScript.svg" height="40" title="TypeScript">
     </td>
