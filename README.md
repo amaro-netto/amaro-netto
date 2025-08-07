@@ -231,6 +231,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 <div align="center">
   
-![Gráfico de Linguagens GitHub para amaro-netto](https://grafdev.vercel.app/api/generate-chart?username=amaro-netto&lineColor=ffffff&fillColor=00b3ff&pointColor=1100ff&textColor=ffffff&gridColor=007BFF&angleLineColor=007bff)
+![Gráfico de Linguagens GitHub para amaro-netto](https://grafdev.vercel.app/api/generate-chart?username=amaro-netto&lineColor=36a2eb&fillColor=36a2eb&pointColor=0011ff&textColor=0091ff&gridColor=00aaff&angleLineColor=00b3ff)
+
+**Outras linguagens detectadas:** `Dart`, `Python`, `Java`, `Shell`, `Nix`, `Dockerfile`, `Kotlin`
 
 </div>
