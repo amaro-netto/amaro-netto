@@ -45,55 +45,47 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 <table>
   <tr>
     <th rowspan="4"><small> F<br>R<br>O<br>N<br>T<br>-<br>E<br>N<br>D</small></th>
-    <td><small><strong>Linguagens</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html" height="30" title="HTML5">
-      <img src="https://skillicons.dev/icons?i=css" height="30" title="CSS3">
-      <img src="https://skillicons.dev/icons?i=js" height="30" title="JavaScript">
-      <img src="https://skillicons.dev/icons?i=ts" height="30" title="TypeScript">
+          <img src="https://raw.githubusercontent.com/amaro-netto/icons/ab607b13d854bfbccdf2e50665dda1b167ff8097/icons/Linguagens/color/java.svg" height="40" title="JAVA">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/ab607b13d854bfbccdf2e50665dda1b167ff8097/icons/Linguagens/color/html.svg" height="40" title="HTML5">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/ab607b13d854bfbccdf2e50665dda1b167ff8097/icons/Linguagens/color/css.svg" height="40" title="CSS3">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Linguagens/color/javascript.svg" height="40" title="JavaScript">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/ab607b13d854bfbccdf2e50665dda1b167ff8097/icons/Linguagens/color/TypeScript.svg" height="40" title="TypeScript">
     </td>
-    <th rowspan="4"><small> B<br>A<br>C<br>K<br>-<br>E<br>N<br>D</small></th>
-    <td><small><strong>Linguagens</strong></small></td>
+    <th rowspan="4"><small>B<br>A<br>C<br>K<br>-<br>E<br>N<br>D</small></th>
     <td>
-      <img src="https://skillicons.dev/icons?i=js" height="30" title="JavaScript">
-      <img src="https://skillicons.dev/icons?i=python" height="30" title="Python">
-      <img src="https://skillicons.dev/icons?i=php" height="30" title="PHP">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Linguagens/color/javascript.svg" height="40" title="JavaScript">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Linguagens/color/python.svg" height="40" title="Python">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Linguagens/color/php.svg" height="40" title="PHP">
     </td>
     <th rowspan="4"><small>D<br>A<br>T<br>A<br>B<br>A<br>S<br>E</small></th>
-    <td><small><strong>SQL</strong></small></td>
     <td>
       <img src="https://skillicons.dev/icons?i=postgres" height="30" title="PostgreSQL">
       <img src="https://skillicons.dev/icons?i=mysql" height="30" title="MySQL">
     </td>
   </tr>
   <tr>
-    <td><small><strong>Frameworks</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vite" height="30" title="Vite.js">
-      <img src="https://skillicons.dev/icons?i=vue" height="30" title="Vue.js">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Frameworks/color/vite.js.svg" height="40" title="Vite.js">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Frameworks/color/vue.js.svg" height="40" title="Vue.js">
     </td>
-    <td><small><strong>Frameworks</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" height="30" title="Node.js">
-      <img src="https://skillicons.dev/icons?i=express" height="30" title="Express.js">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Frameworks/color/node.js.svg" height="40" title="Node.js">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Frameworks/color/ex.js.svg" height="40" title="Express.js">
     </td>
-    <td><small><strong>NoSQL</strong></small></td>
     <td>
       <img src="https://skillicons.dev/icons?i=mongodb" height="30" title="MongoDB">
     </td>
   </tr>
   <tr>
-    <td><small><strong>Bibliotecas</strong></small></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=tailwind" height="30" title="Tailwind CSS">
-      <img src="https://skillicons.dev/icons?i=react" height="30" title="React">
-      <img src="https://skillicons.dev/icons?i=jquery" height="30" title="jQuery">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Bibliotecas/color/tailwindcss.svg" height="40" title="Tailwind CSS">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Bibliotecas/color/react.svg" height="40" title="React">
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Bibliotecas/color/jquery.svg" height="40" title="jQuery">
     </td>
-    <td><small><strong>Bibliotecas / Serviços</strong></small></td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="30" title="Pandas"> 
+      <img src="https://raw.githubusercontent.com/amaro-netto/icons/746f87a4f9be226387ce1acee2d3c7d4c2100d6a/icons/Bibliotecas/color/pandas.svg" height="40" title="Pandas"> 
     </td>
-    <td><small><strong>API</strong></small></td>
     <td>
       <img src="https://img.shields.io/badge/REST-009688?logo=api&logoColor=white" height="25" title="REST API">
     </td>
