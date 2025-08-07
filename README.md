@@ -1,4 +1,4 @@
-![html](https://github.com/user-attachments/assets/530419ad-610d-4025-b472-1225423a33c2)### Olá, Bem vindo ao meu Github. Eu sou o Amaro!
+### Olá, Bem vindo ao meu Github. Eu sou o Amaro!
 
 Designer Gráfico & Profissional de TI  
 Criador de jogos indie e entusiasta de tecnologia  
