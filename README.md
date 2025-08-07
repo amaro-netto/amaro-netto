@@ -93,6 +93,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 <div>
   <table>
     <tr>
+      <th rowspan="4"><small> F<br>E<br>R<br>R<br>A<br>M<br>E<br>N<br>T<br>A<br>S</small></th>
       <!-- Desenvolvimento -->
       <th style="text-orientation: upright;"><small>Desenvolvimento</small></th>
       <!-- Virtualização -->
