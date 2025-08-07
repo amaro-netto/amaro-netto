@@ -4,6 +4,20 @@ Designer Gráfico & Profissional de TI
 Criador de jogos indie e entusiasta de tecnologia  
 Apaixonado por design, código limpo e experiências criativas
 
+### BootCamps e Certificações:
+
+<img src="https://www.wateron.com.br/images/em_breve_2ql34g44.png" height="120"></a>
+
+
+### Cursos e Trilhas:
+
+[<img src="https://www.alura.com.br/assets/api/programas/oracle-one.svg" height="100" title="Programa ONE Tech Foundation G8 - Java Back End"></a>](https://cursos.alura.com.br/user/amarosilvanetto/program/15/certificate)
+[<img src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" height="100" title="Network Technician Career Path"></a>](https://www.credly.com/badges/838babb7-391d-4ae4-b8ed-d086c1bd6912)
+[<img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" height="100" title="Junior Cybersecurity Analyst Career Path"></a>](https://www.credly.com/badges/e9b9d420-e0dc-4447-95a4-97a30edde6de)
+[<img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="100" title="Ethical Hacker"></a>](https://www.credly.com/badges/4b240839-d319-494c-862d-8740fcb2507a)
+
+##
+
 ### Estudos de 2025:
 
 JAVA: ONE - Oracle Next Education - Alura 34/34 concluido
