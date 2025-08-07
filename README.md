@@ -1,13 +1,10 @@
-### Olá, Bem vindo ao meu Github. Eu sou o Amaro!
+![html](https://github.com/user-attachments/assets/530419ad-610d-4025-b472-1225423a33c2)### Olá, Bem vindo ao meu Github. Eu sou o Amaro!
 
 Designer Gráfico & Profissional de TI  
 Criador de jogos indie e entusiasta de tecnologia  
 Apaixonado por design, código limpo e experiências criativas
 
 ### BootCamps e Certificações:
-
-<img src="https://www.wateron.com.br/images/em_breve_2ql34g44.png" height="120"></a>
-
 
 ### Cursos e Trilhas:
 
@@ -41,6 +38,8 @@ Oracle Cloud Infrastructure: Certificação - Oracle University  0/4
 
 ### Minhas Tecnologias
 Aqui estão algumas das tecnologias com as quais trabalho:
+
+
 
 <table>
   <tr>
