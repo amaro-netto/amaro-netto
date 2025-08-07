@@ -110,6 +110,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
       <th style=";"><small>BaaS</small></th>
        <!-- BaaS -->
       <th style=";"><small>API Teste</small></th>
+           <!-- Dados -->
+      <th style=";"><small>Dados</small></th>
     </tr>
     <tr>
       <!-- Desenvolvimento -->
@@ -190,7 +192,14 @@ Aqui estão algumas das tecnologias com as quais trabalho:
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" width="30" height="30">
   </div>
 </td>
+           <!-- Dados -->
+<td align="center">
+  <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="jupyter notebook" width="30" height="30">
+  </div>
+</td>
     </tr>
+    
   </table>
 </div>
 
