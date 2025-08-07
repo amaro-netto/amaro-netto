@@ -6,6 +6,8 @@ Apaixonado por design, código limpo e experiências criativas
 
 ### BootCamps e Certificações:
 
+<img src="https://www.wateron.com.br/images/em_breve_2ql34g44.png" height="120"></a>
+
 ### Cursos e Trilhas:
 
 [<img src="https://www.alura.com.br/assets/api/programas/oracle-one.svg" height="100" title="Programa ONE Tech Foundation G8 - Java Back End"></a>](https://cursos.alura.com.br/user/amarosilvanetto/program/15/certificate)
