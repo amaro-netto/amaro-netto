@@ -51,7 +51,9 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ### DATA BASE
 
-<img src="https://skillicons.dev/icons?i=postgres" height="50" title="PostgreSQL"> <img src="https://skillicons.dev/icons?i=mysql" height="50" title="MySQL"> <img src="https://skillicons.dev/icons?i=mongodb" height="50" title="MongoDB"> <img src="https://img.shields.io/badge/REST-009688?logo=api&logoColor=white" height="50" title="REST API">
+<img src="https://raw.githubusercontent.com/amaro-netto/icons/74335385bbf08764a95b23669a01a5fa22ce2e6a/PostgreSQL.svg" height="50" title="PostgreSQL"> <img src="https://raw.githubusercontent.com/amaro-netto/icons/74335385bbf08764a95b23669a01a5fa22ce2e6a/MySQL.svg" height="50" title="MySQL"> <img src="https://raw.githubusercontent.com/amaro-netto/icons/74335385bbf08764a95b23669a01a5fa22ce2e6a/MongoDB.svg" height="50" title="MongoDB">
+
+
 
   <table>
     <tr>
