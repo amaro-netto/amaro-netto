@@ -1,8 +1,7 @@
 ### Olá, Bem vindo ao meu Github. Eu sou o Amaro!
 
 Designer Gráfico & Profissional de TI  
-Criador de jogos indie e entusiasta de tecnologia  
-Apaixonado por design, código limpo e experiências criativas
+Da tela de design à linha de código, construo projetos com paixão e propósito. Como criador de jogos indie, priorizo o design, o código limpo e a experiência do usuário. Conecte-se para colaborar em ideias que unem arte e tecnologia.
 
 ### BootCamps e Certificações:
 
