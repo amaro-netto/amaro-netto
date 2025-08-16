@@ -1,12 +1,11 @@
-###  Sobre
 <i>
 <br />
 
 > Olá, Bem vindo ao meu Github. Eu sou o Amaro!
-  
-> Da tela de design à linha de código, com mais de 10 anos na área de TI, construo projetos com paixão e propósito. Como criador de jogos indie, priorizo o design, o código limpo e a experiência do usuário. Conecte-se para colaborar em ideias que unem arte e tecnologia.
+> Da tela de design à linha de código, com mais de 10 anos na área de TI, construo projetos com paixão e propósito. Priorizo o design, o código limpo e a experiência do usuário. Conecte-se para colaborar em ideias que unem arte e tecnologia.
 </i>
 
+##
 
 ### BootCamps e Certificações:
 
@@ -23,13 +22,15 @@
 
 ### Estudos de 2025:
 
-JAVA: ONE - Oracle Next Education - Alura 34/34 concluido
+JAVA: ONE - Oracle Next Education - Alura 34/34 ✅
 
-Python: BOOTCAMP Santander 2025 - Back-End com Python - DIO
+Python: BOOTCAMP Santander 2025 - Back-End com Python - DIO - 63%
+
+.NET e IA: - BOOTCAMP Avanade - Back-end com .NET e IA - DIO - 0%
 
 CyberSecurity: Google CIEE - Coursera 6/8 concluido
 
-Gestão da Técnologia da Infomação: Pós Graduação - Uniasselvi 3/4 concluidos
+Gestão da Técnologia da Infomação: Pós Graduação - Uniasselvi 4/5 concluidos
 
 Oracle Cloud Infrastructure: Certificação - Oracle University  0/4
 
