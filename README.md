@@ -24,7 +24,7 @@
 
 JAVA: ONE - Oracle Next Education - Alura 2/3
 
-Python: BOOTCAMP Santander 2025 - Back-End com Python - DIO - 93%
+Python: BOOTCAMP Santander 2025 - Back-End com Python - DIO - 100% ✅
 
 .NET e IA: - BOOTCAMP Avanade - Back-end com .NET e IA - DIO - 18%
 
