@@ -9,8 +9,9 @@
 
 ##
 
-### BootCamps e Certificações:
-[<img src="https://github.com/user-attachments/assets/de0d85b8-f13a-4b70-b8ed-ad1b494c67e3" title="BootCamps Santander 2025 - Back-End com Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
+### BootCamps, Formações e Certificações:
+[<img src="https://github.com/user-attachments/assets/de0d85b8-f13a-4b70-b8ed-ad1b494c67e3" title="BootCamp Santander 2025 - Back-End Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
+[<img src="https://www.alura.com.br/assets/api/programas/oracle-one.svg" height="100" title="Formação Tech Foundation Dev Jr - Back End Java"></a>](https://www.credly.com/badges/838babb7-391d-4ae4-b8ed-d086c1bd6912)
 
 ### Cursos e Trilhas:
 
