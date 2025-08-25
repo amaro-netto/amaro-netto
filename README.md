@@ -198,15 +198,3 @@ Aqui estão algumas das tecnologias com as quais trabalho:
         <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amaronetto&layout=compact&theme=dark&hide_border=true&no-bg=true"/>
   </table>
 </div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaro-netto&theme=github-dark&area=true&hide_border=true&hide_title=true&no-bg=true" alt="activity-graph graph"/>
-</div>
-
-<div align="center">
-  
-![Gráfico de Linguagens GitHub para amaro-netto](https://grafdev.vercel.app/api/generate-chart?username=amaro-netto&lineColor=36a2eb&fillColor=36a2eb&pointColor=0011ff&textColor=0091ff&gridColor=00aaff&angleLineColor=00b3ff)
-
-**Outras linguagens detectadas:** `Dart`, `Python`, `Java`, `Shell`, `Nix`, `Dockerfile`, `Kotlin`
-
-</div>
