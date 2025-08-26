@@ -22,7 +22,7 @@
 
 ### Estudos de 2025:
 
-JAVA: ONE - Oracle Next Education - Alura 2/3
+JAVA: ONE - Oracle Next Education - Alura 100% ✅
 
 Python: BOOTCAMP Santander 2025 - Back-End com Python - DIO - 100% ✅
 
@@ -30,7 +30,7 @@ Python: BOOTCAMP Santander 2025 - Back-End com Python - DIO - 100% ✅
 
 CyberSecurity: Google CIEE - Coursera 6/8 concluido
 
-Gestão da Técnologia da Infomação: Pós Graduação - Uniasselvi 4/5 concluidos
+Gestão da Técnologia da Infomação: Pós Graduação - Uniasselvi 5/5 concluidos
 
 Oracle Cloud Infrastructure: Certificação - Oracle University  0/4
 
