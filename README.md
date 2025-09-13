@@ -12,12 +12,9 @@
 [<img src="https://hermes.dio.me/tracks/bf6c9b0a-0cac-4d26-a237-45ef89dd80b2.png" height="150" title="BootCamp Santander 2025 - Back-End Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
 [<img src="https://github.com/user-attachments/assets/fee0daca-2303-4ef0-8653-63cbfd730bae" height="170" title="Formação Tech Foundation Dev Jr - Back End Java"></a>](https://cursos.alura.com.br/user/amarosilvanetto)
 
-### Cursos e Trilhas:
+### Perfis de Estudos:
 
-[<img src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" height="100" title="Network Technician Career Path"></a>](https://www.credly.com/badges/838babb7-391d-4ae4-b8ed-d086c1bd6912)
-[<img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" height="100" title="Junior Cybersecurity Analyst Career Path"></a>](https://www.credly.com/badges/e9b9d420-e0dc-4447-95a4-97a30edde6de)
-[<img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="100" title="Ethical Hacker"></a>](https://www.credly.com/badges/4b240839-d319-494c-862d-8740fcb2507a)
-
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD1_tY_mXnWLucJFIB8A6VgBapHvRKjH9Z8A&s" height="70" title="Cisco"></a>](https://www.credly.com/users/amaro-amarante-da-silva-netto/badges#credly)  [<img src="https://yt3.googleusercontent.com/8Y6tB7Z7c4RLSi8Y8YwP0dlmbmWBItZGwCfW4VXcEgTIMWBoE15mVYWWtscnMr-yIZsmGgOo=s900-c-k-c0x00ffffff-no-rj" height="70" title="Alura"></a>](https://cursos.alura.com.br/user/amarosilvanetto)  [<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/99/2f/94992f01-d2a7-5df6-99ef-2f0ee9f6c848/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" height="70" title="Dio.me"></a>](https://www.dio.me/users/amarosilva002)  [<img src="https://redacao.rhpravoce.com.br/wp-content/uploads/2024/07/Logo-Coursera.png" height="70" title="Coursera"></a>](https://www.coursera.org/learner/amaronetto)  
 ##
 
 ### Estudos de 2025:
