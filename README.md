@@ -15,21 +15,6 @@
 ### Perfis de Cursos:
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD1_tY_mXnWLucJFIB8A6VgBapHvRKjH9Z8A&s" height="70" title="Cisco"></a>](https://www.credly.com/users/amaro-amarante-da-silva-netto/badges#credly)  [<img src="https://yt3.googleusercontent.com/8Y6tB7Z7c4RLSi8Y8YwP0dlmbmWBItZGwCfW4VXcEgTIMWBoE15mVYWWtscnMr-yIZsmGgOo=s900-c-k-c0x00ffffff-no-rj" height="70" title="Alura"></a>](https://cursos.alura.com.br/user/amarosilvanetto)  [<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/99/2f/94992f01-d2a7-5df6-99ef-2f0ee9f6c848/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" height="70" title="Dio.me"></a>](https://www.dio.me/users/amarosilva002)  [<img src="https://www.aidoos.com/media/aidoos_product/Coursera.png" height="70" title="Coursera"></a>](https://www.coursera.org/learner/amaronetto)  
-##
-
-### Estudos de 2025:
-
-JAVA: ONE - Oracle Next Education - Alura 100% ✅
-
-Python: BOOTCAMP Santander 2025 - Back-End com Python - DIO - 100% ✅
-
-.NET e IA: - BOOTCAMP Avanade - Back-end com .NET e IA - DIO - 18%
-
-CyberSecurity: Google CIEE - Coursera 6/8 concluido
-
-Gestão da Técnologia da Infomação: Pós Graduação - Uniasselvi 5/5 concluidos
-
-Oracle Cloud Infrastructure: Certificação - Oracle University  0/4
 
 ##
 
