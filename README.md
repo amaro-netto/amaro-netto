@@ -6,8 +6,6 @@
 > Olá, Bem vindo ao meu Github. Eu sou o Amaro!
 > Da tela de design à linha de código, com mais de 10 anos na área de TI, construo projetos com paixão e propósito. Priorizo o design, o código limpo e a experiência do usuário. Conecte-se para colaborar em ideias que unem arte e tecnologia.
 
-##
-
 ### BootCamps, Formações e Certificações:
 [<img src="https://hermes.dio.me/tracks/bf6c9b0a-0cac-4d26-a237-45ef89dd80b2.png" height="150" title="BootCamp Santander 2025 - Back-End Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
 [<img src="https://github.com/user-attachments/assets/fee0daca-2303-4ef0-8653-63cbfd730bae" height="170" title="Formação Tech Foundation Dev Jr - Back End Java"></a>](https://cursos.alura.com.br/user/amarosilvanetto)
