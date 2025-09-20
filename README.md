@@ -5,7 +5,7 @@
 
 > Olá, Bem vindo ao meu Github. Eu sou o Amaro!
 
-> Sou profissional com mais de 10 anos de experiência na área de Tecnologia da Informação, unindo visão técnica e organizacional para entregar soluções completas. Minha trajetória começou em 2010 como Técnico de Informática, prestando serviços autônomos para pequenas empresas e escritórios, onde desenvolvi habilidades em manutenção de equipamentos, configuração de redes e suporte ao usuário.
+> Profissional com mais de 10 anos de experiência na área de Tecnologia da Informação, unindo visão técnica e organizacional para entregar soluções completas. Minha trajetória começou em 2010 como Técnico de Informática, prestando serviços autônomos para pequenas empresas e escritórios, onde desenvolvi habilidades em manutenção de equipamentos, configuração de redes e suporte ao usuário.
 >Em seguida, atuei por mais de 7 anos na Defensoria Pública do Estado do Rio de Janeiro, com destaque tanto na área técnica quanto administrativa, acumulando experiência em suporte ao usuário, gestão de infraestrutura, segurança da informação e coordenação de contratos.
 
 > No campo Técnico e Operacional, experiência consolidada em suporte técnico de N1/N2/N3, administração de servidores e serviços corporativos, gerenciamento de chamados críticos e implementação de políticas de segurança da informação. Participação em projetos estratégicos como migração de ambientes para nuvem, atualização de sistemas e padronização de processos técnicos, além da elaboração de documentação para equipes de TI. Atuação também em eventos institucionais, gerenciando transmissões ao vivo, criando links, monitorando plataformas e prestando suporte em tempo real.
