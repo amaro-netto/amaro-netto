@@ -5,13 +5,13 @@
 
 > Olá, Bem vindo ao meu Github. Eu sou o Amaro!
 
-> Sou profissional com mais de 10 anos de experiência atuando tanto na área de Tecnologia da Informação quanto em funções administrativas. Trabalhei por mais de 7 anos na Defensoria Pública do Estado do Rio de Janeiro, onde desempenhei atividades de suporte técnico ao usuário, administração de sistemas, gestão de infraestrutura e também rotinas administrativas, como fiscalização de contratos, controle de faturamento, gestão de equipes e coordenação de atendimento.
+> Sou profissional com mais de 10 anos de experiência atuando em Tecnologia da Informação e também em funções administrativas, unindo visão técnica e organizacional para entregar soluções completas. Trabalhei por mais de 7 anos na Defensoria Pública do Estado do Rio de Janeiro, com destaque para suporte a usuários, gestão de infraestrutura, segurança da informação e acompanhamento de contratos.
 
-> No campo administrativo, atuei no controle e organização de documentos físicos e digitais, elaboração de relatórios e planilhas, acompanhamento de contas e processos internos, gestão de correspondências e apoio a setores operacionais e técnicos. Tive ainda responsabilidade no relacionamento com empresas prestadoras de serviços, acompanhando prazos, negociações e garantindo a qualidade nas entregas. Essa combinação de experiências me permitiu desenvolver uma visão ampla de processos, conciliando organização, comunicação e capacidade de resolução de problemas.
+> Campo Técnico e Operacional, atuação sólida em suporte técnico de N1/N2/N3, gerenciamento de chamados críticos, administração de servidores e serviços corporativos, além da implementação de políticas de segurança da informação. Experiência em projetos estratégicos como migração de ambientes para nuvem, atualização e integração de sistemas, além da elaboração de documentação técnica para padronização de processos. Também participei da coordenação de equipes e fornecedores em projetos de TI, assegurando a continuidade dos serviços e alto índice de satisfação dos usuários.
 
-> Sou proativo, detalhista e possuo facilidade em aprender novas ferramentas e metodologias, o que me permite atuar em diferentes contextos, seja apoiando equipes administrativas, coordenando fornecedores ou gerenciando demandas técnicas.
+> Campo Administrativo, responsável por rotinas administrativas envolvendo controle e organização de documentos físicos e digitais, elaboração de relatórios e planilhas, gestão de correspondências e acompanhamento de contas internas. Experiência no relacionamento direto com fornecedores e empresas prestadoras de serviço, incluindo negociações, fiscalização de contratos e controle de faturamento. Essa vivência reforçou minha capacidade de alinhar eficiência operacional com boa comunicação e foco em resultados.
 
-> Atualmente aprimorando habilidades em programação para o desenvolvimento de aplicações e soluções de automação com IA, com foco em otimizar operações e impulsionar a transformação digital.
+> Sou um profissional proativo, detalhista e adaptável, com facilidade para aprender novas ferramentas e metodologias. Capaz de atuar em diferentes contextos do apoio administrativo à gestão de demandas técnicas complexas. Atualmente, venho expandindo minhas competências em programação, automação e inteligência artificial, com foco no desenvolvimento de soluções que otimizem operações e apoiem a transformação digital.
 
 ##
 
