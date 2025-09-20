@@ -11,7 +11,7 @@
 
 > Sou proativo, detalhista e possuo facilidade em aprender novas ferramentas e metodologias, o que me permite atuar em diferentes contextos, seja apoiando equipes administrativas, coordenando fornecedores ou gerenciando demandas técnicas.
 
-> Aprimorando habilidades em programação para o desenvolvimento de aplicações e soluções de automação com IA, com foco em otimizar operações e impulsionar a transformação digital.
+> Atualmente aprimorando habilidades em programação para o desenvolvimento de aplicações e soluções de automação com IA, com foco em otimizar operações e impulsionar a transformação digital.
 
 ### BootCamps, Formações e Certificações:
 [<img src="https://hermes.dio.me/tracks/bf6c9b0a-0cac-4d26-a237-45ef89dd80b2.png" height="150" title="BootCamp Santander 2025 - Back-End Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
