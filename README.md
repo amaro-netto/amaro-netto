@@ -4,11 +4,13 @@
 <br />
 
 > Olá, Bem vindo ao meu Github. Eu sou o Amaro!
+
 > Sou profissional com mais de 10 anos de experiência atuando tanto na área de Tecnologia da Informação quanto em funções administrativas. Trabalhei por mais de 7 anos na Defensoria Pública do Estado do Rio de Janeiro, onde desempenhei atividades de suporte técnico ao usuário, administração de sistemas, gestão de infraestrutura e também rotinas administrativas, como fiscalização de contratos, controle de faturamento, gestão de equipes e coordenação de atendimento.
 
 > No campo administrativo, atuei no controle e organização de documentos físicos e digitais, elaboração de relatórios e planilhas, acompanhamento de contas e processos internos, gestão de correspondências e apoio a setores operacionais e técnicos. Tive ainda responsabilidade no relacionamento com empresas prestadoras de serviços, acompanhando prazos, negociações e garantindo a qualidade nas entregas. Essa combinação de experiências me permitiu desenvolver uma visão ampla de processos, conciliando organização, comunicação e capacidade de resolução de problemas.
 
 > Sou proativo, detalhista e possuo facilidade em aprender novas ferramentas e metodologias, o que me permite atuar em diferentes contextos, seja apoiando equipes administrativas, coordenando fornecedores ou gerenciando demandas técnicas.
+
 > Aprimorando habilidades em programação para o desenvolvimento de aplicações e soluções de automação com IA, com foco em otimizar operações e impulsionar a transformação digital.
 
 ### BootCamps, Formações e Certificações:
