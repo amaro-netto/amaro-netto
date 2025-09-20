@@ -12,7 +12,7 @@
 
 > No campo Administrativo, atuação abrangente em rotinas administrativas e de gestão, incluindo controle e organização de documentos físicos e digitais, elaboração de relatórios, acompanhamento de contas e processos internos, gestão de correspondências e apoio a setores técnicos e operacionais. Experiência no relacionamento direto com fornecedores e prestadores de serviços, desde negociações até fiscalização de contratos e controle de faturamento. Destaca-se ainda a experiência como gestor de equipe, com responsabilidade pela distribuição de tarefas, acompanhamento de resultados e suporte estratégico no atendimento a usuários e projetos de TI.
 
-> Sou proativo, detalhista e adaptável, com facilidade para aprender novas ferramentas e metodologias. Capaz de atuar em diferentes contextos — do apoio administrativo à gestão de demandas técnicas complexas. Atualmente, venho expandindo minhas competências em programação, automação e inteligência artificial, desenvolvendo soluções que otimizam operações e impulsionam a transformação digital.
+> Sou proativo, detalhista e adaptável, com facilidade para aprender novas ferramentas e metodologias. Capaz de atuar em diferentes contextos do apoio administrativo à gestão de demandas técnicas complexas. Atualmente, venho expandindo minhas competências em programação, automação e inteligência artificial, desenvolvendo soluções que otimizam operações e impulsionam a transformação digital.
 
 ##
 
