@@ -13,6 +13,8 @@
 
 > Atualmente aprimorando habilidades em programação para o desenvolvimento de aplicações e soluções de automação com IA, com foco em otimizar operações e impulsionar a transformação digital.
 
+##
+
 ### BootCamps, Formações e Certificações:
 [<img src="https://hermes.dio.me/tracks/bf6c9b0a-0cac-4d26-a237-45ef89dd80b2.png" height="150" title="BootCamp Santander 2025 - Back-End Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
 [<img src="https://github.com/user-attachments/assets/fee0daca-2303-4ef0-8653-63cbfd730bae" height="170" title="Formação Tech Foundation Dev Jr - Back End Java"></a>](https://cursos.alura.com.br/user/amarosilvanetto)
