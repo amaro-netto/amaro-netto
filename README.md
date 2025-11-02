@@ -17,6 +17,7 @@
 ##
 
 ### BootCamps, Formações e Certificações:
+[<img src="https://github.com/user-attachments/assets/45b15fd7-f7ae-4f6e-8de4-a5c9f415a6cb" height="150" title="Oracle Cloud Infrastructure (OCI) Foundations Associate"></a>]([https://www.dio.me/certificate/JLPQYV9D/share](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3CFF1C529CCB2C41B40CE70E1BA355F09C766F478FA293253D7E0ED22B34E189))
 [<img src="https://hermes.dio.me/tracks/bf6c9b0a-0cac-4d26-a237-45ef89dd80b2.png" height="150" title="BootCamp Santander 2025 - Back-End Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
 [<img src="https://github.com/user-attachments/assets/fee0daca-2303-4ef0-8653-63cbfd730bae" height="170" title="Formação Tech Foundation Dev Jr - Back End Java"></a>](https://cursos.alura.com.br/user/amarosilvanetto)
 [<img src="https://github.com/user-attachments/assets/390f7589-d0a6-44a5-b8bc-23098b573200" height="170" title="Google Cybersecurity Professional Certificate V2"></a>](https://www.credly.com/badges/574a310c-8f95-45c4-930d-82375303eaa1/public_url)
