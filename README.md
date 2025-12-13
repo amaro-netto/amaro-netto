@@ -21,9 +21,9 @@
 [<img src="https://hermes.dio.me/tracks/bf6c9b0a-0cac-4d26-a237-45ef89dd80b2.png" height="100" title="BootCamp Santander 2025 - Back-End Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
 [<img src="https://github.com/user-attachments/assets/fee0daca-2303-4ef0-8653-63cbfd730bae" height="110" title="Formação Tech Foundation Dev Jr - Back End Java"></a>](https://cursos.alura.com.br/user/amarosilvanetto)
 [<img src="https://github.com/user-attachments/assets/390f7589-d0a6-44a5-b8bc-23098b573200" height="110" title="Google Cybersecurity Professional Certificate V2"></a>](https://www.credly.com/badges/574a310c-8f95-45c4-930d-82375303eaa1/public_url)
-[<img src="https://assets.dio.me/8EYRD0ZKBKml8yBhvLsrzcKhPfubFLMjGwdUqwpss-c/f:webp/q:80/w:480/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" height="100" title="BootCamp Santander 2025 - Back-End Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
-[<img src="https://assets.dio.me/YNgQVyGRTNy3SF4eCje5d2-OwXLRtNvqS7XN_1tc74w/f:webp/q:80/w:480/L3RyYWNrcy82MzE2YzRiZS1kMzM1LTQxNDAtOWY3OS0yMjQzYjNkN2RlNzMucG5n" height="100" title="BootCamp Santander 2025 - Back-End Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
-[<img src="https://assets.dio.me/uNgGfhAV3DPc9L5rGeFN1BZWoAn5RxcwPw0wLodfbuc/f:webp/q:80/w:480/L3RyYWNrcy9iNTlmYzA5Zi00ZDY3LTRmY2QtYjRlYy0zYWViN2IxMWE2NTQucG5n" height="110" title="BootCamp Santander 2025 - Back-End Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
+[<img src="https://assets.dio.me/8EYRD0ZKBKml8yBhvLsrzcKhPfubFLMjGwdUqwpss-c/f:webp/q:80/w:480/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" height="100" title="Avanade - Back-end com .NET e IA"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
+[<img src="https://assets.dio.me/YNgQVyGRTNy3SF4eCje5d2-OwXLRtNvqS7XN_1tc74w/f:webp/q:80/w:480/L3RyYWNrcy82MzE2YzRiZS1kMzM1LTQxNDAtOWY3OS0yMjQzYjNkN2RlNzMucG5n" height="100" title="Nexa - Fundamentos de IA Generativa com Bedrock"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
+[<img src="https://assets.dio.me/uNgGfhAV3DPc9L5rGeFN1BZWoAn5RxcwPw0wLodfbuc/f:webp/q:80/w:480/L3RyYWNrcy9iNTlmYzA5Zi00ZDY3LTRmY2QtYjRlYy0zYWViN2IxMWE2NTQucG5n" height="110" title="Aceleração Microsoft – IA & Arquitetura de Dados"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
 
 ### Perfis de Cursos:
 
