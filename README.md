@@ -21,9 +21,9 @@
 [<img src="https://raw.githubusercontent.com/amaro-netto/amaro-netto/refs/heads/main/images/badge/Sem-T%C3%ADtulo-1_0004_Camada-2.png" height="100" title="BootCamp Santander 2025 - Back-End Python"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
 [<img src="https://raw.githubusercontent.com/amaro-netto/amaro-netto/refs/heads/main/images/badge/Sem-T%C3%ADtulo-1_0001_Camada-6.png" height="100" title="Formação Tech Foundation Dev Jr - Back End Java"></a>](https://cursos.alura.com.br/user/amarosilvanetto)
 [<img src="https://raw.githubusercontent.com/amaro-netto/amaro-netto/refs/heads/main/images/badge/Sem-T%C3%ADtulo-1_0002_Camada-5.png" height="100" title="Google Cybersecurity Professional Certificate V2"></a>](https://www.credly.com/badges/574a310c-8f95-45c4-930d-82375303eaa1/public_url)
-[<img src="https://raw.githubusercontent.com/amaro-netto/amaro-netto/refs/heads/main/images/badge/Sem-T%C3%ADtulo-1_0005_Camada-1.png" height="100" title="Avanade - Back-end com .NET e IA"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
-[<img src="https://raw.githubusercontent.com/amaro-netto/amaro-netto/refs/heads/main/images/badge/Sem-T%C3%ADtulo-1_0006_6316c4be-d335-4140-9f79-2243b3d7de73.png" height="100" title="Nexa - Fundamentos de IA Generativa com Bedrock"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
-[<img src="https://raw.githubusercontent.com/amaro-netto/amaro-netto/refs/heads/main/images/badge/Sem-T%C3%ADtulo-1_0003_Camada-3.png" height="100" title="Aceleração Microsoft – IA & Arquitetura de Dados"></a>](https://www.dio.me/certificate/JLPQYV9D/share)
+[<img src="https://raw.githubusercontent.com/amaro-netto/amaro-netto/refs/heads/main/images/badge/Sem-T%C3%ADtulo-1_0005_Camada-1.png" height="100" title="Avanade - Back-end com .NET e IA"></a>]()
+[<img src="https://raw.githubusercontent.com/amaro-netto/amaro-netto/refs/heads/main/images/badge/Sem-T%C3%ADtulo-1_0006_6316c4be-d335-4140-9f79-2243b3d7de73.png" height="100" title="Nexa - Fundamentos de IA Generativa com Bedrock"></a>]()
+[<img src="https://raw.githubusercontent.com/amaro-netto/amaro-netto/refs/heads/main/images/badge/Sem-T%C3%ADtulo-1_0003_Camada-3.png" height="100" title="Aceleração Microsoft – IA & Arquitetura de Dados"></a>]()
 
 ### Perfis de Cursos:
 
