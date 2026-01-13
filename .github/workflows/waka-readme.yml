@@ -1,0 +1,19 @@
+name: WakaTime Readme Stats
+
+on:
+  schedule:
+    # Executa a cada 24 horas à meia-noite (UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Permite executar manualmente o workflow na aba Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: WakaTime Readme Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Personalize outras opções como LANG_COUNT, COMMITS_COUNT, etc.
