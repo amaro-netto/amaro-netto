@@ -1,8 +1,5 @@
 ### SOBRE
 
-<i>
-<br />
-
 > Olá, Bem vindo ao meu Github. Eu sou o Amaro!
 
 > Profissional com mais de 10 anos de experiência na área de Tecnologia da Informação, unindo visão técnica e organizacional para entregar soluções completas. Minha trajetória começou em 2010 como Técnico de Informática, prestando serviços autônomos para pequenas empresas e escritórios, onde desenvolvi habilidades em manutenção de equipamentos, configuração de redes e suporte ao usuário.
