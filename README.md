@@ -71,19 +71,26 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ### ESTATISTICAS:
 
-<p align="center">
-<!--START_SECTION:waka-->
 
-```txt
-Total Time: 9 hrs 42 mins
 
-Python       7 hrs 23 mins   ██████████████████▓░░░░░░   75.31 %
-TypeScript   44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Git Config   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Text         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-```
 
-<!--END_SECTION:waka-->
-</p>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaro-netto&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" height="350" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaro-netto&&layout=pie&langs_count=10&size_weight=0.5&count_weight=0.5&theme=dark" height="320" alt="languages graph"  />
+  </div>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=amaro-netto&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true" height="180" alt="streak graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amaronetto&langs_count=5&hide=xml,other,css&theme=dark" height="180" alt="wakatime" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaro-netto&radius=16&theme=react&area=true&order=5" width="100%" alt="activity-graph graph"  />
+</div>
+
+<div align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaro-netto&theme=react" height="170" alt="Resumo de Perfil" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amaro-netto&theme=react&utcOffset=8" height="170" alt="Tempo Produtivo" />
+</div>
 
