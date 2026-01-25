@@ -90,7 +90,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 </div>
 
 <div align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaro-netto&theme=react" height="150" alt="Resumo de Perfil" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amaro-netto&theme=react&utcOffset=8" height="150" alt="Tempo Produtivo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaro-netto&theme=react" height="160" alt="Resumo de Perfil" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amaro-netto&theme=react&utcOffset=8" height="160" alt="Tempo Produtivo" />
 </div>
 
