@@ -73,6 +73,17 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 <p align="center">
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 9 hrs 42 mins
+
+Python       7 hrs 23 mins   ██████████████████▓░░░░░░   75.31 %
+TypeScript   44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Git Config   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Text         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+```
+
 <!--END_SECTION:waka-->
 </p>
 
