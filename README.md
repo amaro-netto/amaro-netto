@@ -73,9 +73,9 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=amaro-netto&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true" height="160" alt="streak graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amaronetto&langs_count=5&hide=xml,other,css&theme=dark" height="160" alt="wakatime" />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amaronetto&langs_count=5&hide=xml,other,css&theme=dark&hide_border=true" height="160" alt="wakatime" />
 </div>
 <div align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaro-netto&theme=react" alt="Resumo de Perfil" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaro-netto&theme=react" height="320" alt="Resumo de Perfil" />
 </div>
 
