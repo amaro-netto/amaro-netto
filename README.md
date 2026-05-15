@@ -31,7 +31,7 @@
 ### PROJETOS EM DESTAQUE:
 
 - [📱 MeuApp](https://github.com/usuario/) - App mobile (em contrução)
-- [🖥️ MeuSite](https://github.com/amaro-netto/) - Landing page (em contrução)
+- [🖥️ MeuSite](https://amaronettosolucoes.com.br) - Landing page (em contrução)
 
 ##
 
